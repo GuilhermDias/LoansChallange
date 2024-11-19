@@ -55,11 +55,11 @@ Este projeto é uma API REST desenvolvida em Java utilizando Spring Boot para ge
 }
 ```
 **Como executar o projeto: **
---Clone o repositório
+--**Clone o repositório**
 `git clone https://github.com/GuilhermDias/LoansChallange`
---Navegue até o diretório do projet
+--**Navegue até o diretório do projet**
 `cd nome-do-repositorio`
---Execute o projeto
+--**Execute o projeto**
 `mvn spring-boot:run`
---Acesse a API por
+--**Acesse a API por**
 `http://localhost:8080`
